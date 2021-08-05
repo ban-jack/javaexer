@@ -12,6 +12,7 @@ public class Solution {
         int k = 3;
         int[] ints = kWeakestRows(arr1, k);
         System.out.println(Arrays.toString(ints));
+        System.out.println("git test");
 
     }
 
