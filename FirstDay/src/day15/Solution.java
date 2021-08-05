@@ -15,6 +15,7 @@ public class Solution {
         System.out.println("git test");
         System.out.println("hello hotfix");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 
     /*
