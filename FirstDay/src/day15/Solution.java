@@ -13,8 +13,8 @@ public class Solution {
         int[] ints = kWeakestRows(arr1, k);
         System.out.println(Arrays.toString(ints));
         System.out.println("git test");
-
         System.out.println("hello hotfix");
+        System.out.println("push test");
     }
 
     /*
